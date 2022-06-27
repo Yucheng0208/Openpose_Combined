@@ -1,6 +1,8 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 
+import RPi.GPIO as GPIO
+
 # Create the TCP server
 def create_tcp_server(host,port):
     # create socket
