@@ -3,7 +3,7 @@
   * JSON parser from: <https://github.com/udp/json-parser> <br >
   * Openpose from: <https://github.com/CMU-Perceptual-Computing-Lab/openpose> <br >
   * TCP/IP Socket: <https://github.com/Yucheng0208/TCP_Socket> <br >
-  * Ubuntu Version: Ubuntu LTS 18.04 <br >
+  * Ubuntu 18.04 LTS: <https://ftp.ubuntu-tw.org/ubuntu-releases/18.04.6/ubuntu-18.04.6-desktop-amd64.iso><br >
 * Hardware
   * Raspberry Pi: 3B+ 4GB. <br >
   * Desktop: CPU i9-9900KF, GPU RTX-2060(2 sets), RAM DDR4-3200 32GB(2 sets), SSD 1TB,and HDD 2TB.
